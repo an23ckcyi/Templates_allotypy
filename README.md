@@ -1,0 +1,2 @@
+# MyStupidTemplates
+Vegetable
